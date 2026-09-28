@@ -1,0 +1,12 @@
+{
+  "name": "roblox-saweria-bridge",
+  "version": "1.0.0",
+  "description": "Saweria donation bridge for Roblox",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
